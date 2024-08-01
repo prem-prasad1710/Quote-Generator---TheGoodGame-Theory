@@ -22,7 +22,7 @@ This is a simple Quote Generator App that fetches random quotes and allows users
 
 3.Install the dependencies:
 
-##Usage
+## Usage
 Start the development server:
  ```sh
 npm start
