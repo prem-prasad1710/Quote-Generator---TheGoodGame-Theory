@@ -10,7 +10,7 @@ This is a simple Quote Generator App that fetches random quotes and allows users
 
 ## Screenshot
 
-![Quote Generator App Screenshot](./screenshot.png)
+![Quote Generator App Screenshot](./public/Project_Screenshot.png)
 
 ## Installation
 
