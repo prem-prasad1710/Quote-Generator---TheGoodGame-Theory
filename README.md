@@ -18,6 +18,7 @@ This is a simple Quote Generator App that fetches random quotes and allows users
 
    ```sh
    git clone https://github.com/prem-prasad1710/Quote-Generator---TheGoodGame-Theory.git
+   ```
    
 2. Navigate to the project directory:
 
