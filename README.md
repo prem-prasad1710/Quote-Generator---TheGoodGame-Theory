@@ -32,7 +32,7 @@ npm start
 
 Open your browser and navigate to http://localhost:3000.
 
-Technologies Used
+## Technologies Used :
 React
 Axios
 canvas-confetti
